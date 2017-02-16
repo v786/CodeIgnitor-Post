@@ -1,5 +1,5 @@
     <div id="footer">
-      <p>Copyright &copy; Al- Imran Ahmed</p>
+      <p>Copyright &copy; Meethi Jalebi</p>
     </div>
   </div>
   <script src="<?=  base_url()?>public/js/jquery-2.1.1.min.js"></script>
